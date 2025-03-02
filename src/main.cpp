@@ -19,9 +19,7 @@
 // Voltage monitoring
 #define genVoltagePin A0    // Analog input for generator voltage monitoring
 #define gridVoltagePin A1   // Analog input for grid voltage monitoring
-#define unTest A2
-#define unTest1 A3
-#define untest2 A4
+
 
 // State machine enum
 enum GeneratorState {
